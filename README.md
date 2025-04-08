@@ -12,7 +12,9 @@
   ##
 
   --
-  📚 Atualmente estou estudando **React** e **Node.js**.
+  <div>
+    <p class="font-size: 0.8em">📚 Atualmente estou estudando **React** e **Node.js**.</p>
+  </div>
   --
  
 <div> 
