@@ -12,9 +12,9 @@
   ##
 
   --
-  <div>
-    <p style="font-size: 0.8em">📚 Atualmente estou estudando <span style="font-weight: bold">React</span> e <span style="font-weight: bold">Node.js</span>.</p>
-  </div>
+<div>
+  <p style="font-size: 0.8em">📚 Atualmente estou estudando <span style="font-weight: bold">React</span> e <span style="font-weight: bold">Node.js</span>.</p>
+</div>
   --
  
 <div> 
