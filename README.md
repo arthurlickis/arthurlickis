@@ -13,7 +13,7 @@
 
   --
   <div>
-    <p class="font-size: 0.8em">📚 Atualmente estou estudando <span class="font-weigth: bold">React</span> e <span class="font-weigth: bold">Node.js</span>.</p>
+    <p class="font-size: 0.8em">📚 Atualmente estou estudando <span class="font-weight: bold">React</span> e <span class="font-weight: bold">Node.js</span>.</p>
   </div>
   --
  
