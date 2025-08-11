@@ -1,6 +1,6 @@
 ## Olá, eu sou o Arthur Raulickis Ramos!
 
-Sou curioso, sempre quero entender o porquê de algo. Isso me motiva a explorar e aprender continuamente sobre novas tecnologias e práticas de desenvolvimento.
+Sou curioso, sempre quero entender o porquê de algo. Isso me motiva a explorar e aprender continuamente sobre novas tecnologias e práticas de desenvolvimento e segurança.
 
 ### Tecnologias que eu uso:
 
@@ -18,10 +18,10 @@ Sou curioso, sempre quero entender o porquê de algo. Isso me motiva a explorar 
 
 ### Habilidades
 
-- **Front-End**: Desenvolvimento com React, HTML5, CSS3, JavaScript
-- **Back-End**: APIs com Node.js, Express
-- **Banco de Dados**: MongoDB, MySQL
-- **Design**: Figma
+- **Front-End**: Desenvolvimento com React, HTML5, CSS3, JavaScript e TypeScript
+- **Back-End**: APIs com Node.js e Express
+- **Banco de Dados**: MongoDB (Mongoose) e MySQL (Sequelize)
+- **Design**: Figma, Design UX/UI, Design Thinking, Design System
 
 ### Entre em contato comigo:
 
