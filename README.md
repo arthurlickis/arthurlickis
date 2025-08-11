@@ -19,7 +19,7 @@ Sou curioso, sempre quero entender o porquê de algo. Isso me motiva a explorar 
 ### Habilidades
 
 - **Front-End**: Desenvolvimento com React, HTML5, CSS3, JavaScript e TypeScript
-- **Back-End**: APIs com Node.js e Express
+- **Back-End**: APIs com Node.js (Express)
 - **Banco de Dados**: MongoDB (Mongoose) e MySQL (Sequelize)
 - **Design**: Figma, Design UX/UI, Design Thinking, Design System
 
